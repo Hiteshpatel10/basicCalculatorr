@@ -12,21 +12,19 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/Display1"
+            android:id="@+id/display1"
             style="@style/Display"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="placeholder"
             android:singleLine="true"
             android:ellipsize="start"
             android:gravity="end"/>
 
         <TextView
-            android:id="@+id/Display2"
+            android:id="@+id/display2"
             style="@style/Display"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="placeholder"
             android:singleLine="true"
             android:ellipsize="end"
             android:gravity="end"/>
